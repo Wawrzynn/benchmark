@@ -1,4 +1,4 @@
-# Name of the project &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Wawrzynn/benchmark/blob/master/LICENSE)
+# Benchmark &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Wawrzynn/benchmark/blob/master/LICENSE)
 
 Benchmark application created for OESK labs. It measures CPU performance.
 
