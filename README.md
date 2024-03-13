@@ -4,7 +4,7 @@ Benchmark application created for OESK labs. It measures CPU performance.
 
 ## Installing / Getting started
 
-In order to install aplication use npm.
+In order to install application use npm.
 
 ```shell
 cd benchmark
@@ -12,7 +12,8 @@ npm install
 npm run start
 ```
 
-Here user navigates to benchmark folder where project is located and than installs required dependencies. Last command starts the project using start script [localhost:3000](https://localhost:3000/). Project is functional however the Firebase for that project has been shut down.
+Here user navigates to benchmark folder where project is located and than installs required dependencies. Last command starts the project using start script here: [localhost:3000](https://localhost:3000/). 
+Project is functional however the Firebase for that project has been shut down.
 
 ## Developing
 
